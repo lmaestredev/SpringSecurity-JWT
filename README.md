@@ -1,2 +1,2 @@
 # SpringSecurity-JWT
-This project has the configuration about spring security with jwt
+This project contains a basic configuration about how to configure spring security module with jwt.
